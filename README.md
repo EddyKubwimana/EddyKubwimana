@@ -6,7 +6,6 @@ I build technology that expands financial access and economic opportunity across
 
 As the Founder & CEO of **PayVista**, I design financial infrastructure that empowers mobile money agents with liquidity, working capital, and transaction efficiency;enabling underserved communities to access reliable financial services.
 
----
 
 ##  Mission
 
@@ -14,7 +13,7 @@ As the Founder & CEO of **PayVista**, I design financial infrastructure that emp
 
 I believe financial infrastructure is the backbone of opportunity. My work focuses on removing barriers that prevent individuals and small businesses from participating fully in the economy.
 
----
+
 
 ## About PayVista
 
@@ -31,7 +30,7 @@ I believe financial infrastructure is the backbone of opportunity. My work focus
 
 **PayVista Solution:** Data-driven liquidity distribution and financing tools that increase transaction capacity and agent profitability.
 
----
+
 
 ##  What Drives Me
 
@@ -41,7 +40,7 @@ I believe financial infrastructure is the backbone of opportunity. My work focus
 * Entrepreneurship adnd ecosystem development
 * Technology for social and economic impact
 
----
+
 
 ## Tech Stack
 
@@ -71,7 +70,6 @@ I believe financial infrastructure is the backbone of opportunity. My work focus
 
 `REST APIs` • `Fintech Infrastructure` • `Mobile Money Systems` • `Float Management` • `Financial Analytics`
 
----
 
 ##  Featured Projects
 
@@ -81,7 +79,7 @@ Fintech infrastructure enabling liquidity distribution and working capital acces
 
 **Impact:** Improves transaction reliability and expands financial access in underserved communities.
 
----
+
 
 
 ###  Financial Tracking Systems
@@ -90,19 +88,18 @@ Tools for tracking float, transactions, and profit analytics.
 
 **Impact:** Enables small financial operators to manage liquidity and profitability.
 
----
+
 
 ##  GitHub Activity & Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username\&show_icons=true\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EddyKubwimana\&show_icons=true\&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username\&layout=compact\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EddyKubwimana\&layout=compact\&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=your-github-username\&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=EddyKubwimana\&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-github-username)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EddyKubwimana)
 
----
 
 ##  Current Focus
 
@@ -136,13 +133,8 @@ I welcome opportunities in:
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:your@email.com)
-[![Portfolio](https://img.shields.io/badge/Website-Visit-black?style=for-the-badge\&logo=googlechrome)](https://yourwebsite.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:kubwimanaeddy1@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Website-Visit-black?style=for-the-badge\&logo=googlechrome)](https://eddykubwimana.github.io/eddy/)
 
----
 
-⭐ *“Africa’s future will be built by those who design systems that expand opportunity.”*
-
----
-
-![Visitor Count](https://komarev.com/ghpvc/?username=your-github-username\&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=EddyKubwimana\&style=flat-square)
