@@ -4,7 +4,7 @@
 
 I build technology that expands financial access and economic opportunity across Burund.
 
-As the Founder & CEO of **PayVista**, I design financial infrastructure that empowers mobile money agents with liquidity, working capital, and transaction efficiency;enabling underserved communities to access reliable financial services.
+As the Founder & CEO of [PayVista](https://www.payvistagroup.com), I design financial infrastructure that empowers mobile money agents with liquidity, working capital, and transaction efficiency;enabling underserved communities to access reliable financial services.
 
 
 ##  Mission
@@ -17,7 +17,7 @@ I believe financial infrastructure is the backbone of opportunity. My work focus
 
 ## About PayVista
 
-**PayVista** is a fintech platform improving financial inclusion by enabling mobile money agents to operate reliably and grow sustainably.
+[PayVista](https://www.payvistagroup.com) is a fintech platform improving financial inclusion by enabling mobile money agents to operate reliably and grow sustainably.
 
 ### Impact Focus
 
@@ -46,15 +46,19 @@ I believe financial infrastructure is the backbone of opportunity. My work focus
 
 ### 💻 Languages
 
-![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge\&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow?style=for-the-badge\&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-Advanced-lightgrey?style=for-the-badge\&logo=postgresql)
+![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow?style=for-the-badge&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-Advanced-lightgrey?style=for-the-badge&logo=postgresql)
+![Java](https://img.shields.io/badge/Java-Advanced-red?style=for-the-badge&logo=openjdk)
+![PHP](https://img.shields.io/badge/PHP-Advanced-777BB4?style=for-the-badge&logo=php)
+![C++](https://img.shields.io/badge/C++-Advanced-00599C?style=for-the-badge&logo=cplusplus)
 
 ### ⚙️ Frameworks & Tools
 
 ![React](https://img.shields.io/badge/React-UI-blue?style=for-the-badge\&logo=react)
 ![Flask](https://img.shields.io/badge/Flask-Backend-black?style=for-the-badge\&logo=flask)
 ![Django](https://img.shields.io/badge/Django-Web-green?style=for-the-badge\&logo=django)
+![Flutter](https://img.shields.io/badge/Flutter-Intermediate-02569B?style=for-the-badge&logo=flutter)
 
 ### ☁️ Cloud & DevOps
 
@@ -65,13 +69,13 @@ I believe financial infrastructure is the backbone of opportunity. My work focus
 ### 🗄 Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge\&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-Advanced-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-47A248?style=for-the-badge&logo=mongodb)
 
 ### 🔧 Specializations
 
 `REST APIs` • `Fintech Infrastructure` • `Mobile Money Systems` • `Float Management` • `Financial Analytics`
 
-
-##  Featured Projects
 
 ###  PayVista Platform
 
@@ -80,14 +84,11 @@ Fintech infrastructure enabling liquidity distribution and working capital acces
 **Impact:** Improves transaction reliability and expands financial access in underserved communities.
 
 
-
-
 ###  Financial Tracking Systems
 
 Tools for tracking float, transactions, and profit analytics.
 
 **Impact:** Enables small financial operators to manage liquidity and profitability.
-
 
 
 ##  GitHub Activity & Stats
@@ -108,7 +109,6 @@ Tools for tracking float, transactions, and profit analytics.
 * Strengthening resilient digital financial ecosystems
 * Expanding partnerships & institutional readiness
 
----
 
 ##  Impact & Leadership
 
@@ -117,7 +117,6 @@ Tools for tracking float, transactions, and profit analytics.
 ✔ Building systems that strengthen local economies
 ✔ Creating opportunities through fintech innovation
 
----
 
 ##  Open to Collaboration
 
@@ -128,11 +127,10 @@ I welcome opportunities in:
 * Open-source collaboration
 * Impact-driven technology initiatives
 
----
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/eddy-kubwimana)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:kubwimanaeddy1@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Website-Visit-black?style=for-the-badge\&logo=googlechrome)](https://eddykubwimana.github.io/eddy/)
 
