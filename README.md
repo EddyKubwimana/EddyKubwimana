@@ -2,7 +2,7 @@
 
 ### PayVista Founder | Software Engineer | Financial Inclusion Advocate
 
-I build technology that expands financial access and economic opportunity across Burund.
+I build technology that expands financial access and economic opportunity across Burundi.
 
 As the Founder & CEO of [PayVista](https://www.payvistagroup.com), I design financial infrastructure that empowers mobile money agents with liquidity, working capital, and transaction efficiency;enabling underserved communities to access reliable financial services.
 
@@ -26,12 +26,6 @@ I believe financial infrastructure is the backbone of opportunity. My work focus
 *  Expanding financial services to underserved communities
 *  Strengthening local financial ecosystems
 
-**Problem Solved:** Agents frequently run out of float and working capital, preventing transactions and limiting community access to financial services.
-
-**PayVista Solution:** Data-driven liquidity distribution and financing tools that increase transaction capacity and agent profitability.
-
-
-
 ##  What Drives Me
 
 * Financial inclusion and emerging markets innovation
@@ -39,7 +33,6 @@ I believe financial infrastructure is the backbone of opportunity. My work focus
 * Data-driven credit and liquidity systems
 * Entrepreneurship adnd ecosystem development
 * Technology for social and economic impact
-
 
 
 ## Tech Stack
@@ -79,16 +72,12 @@ I believe financial infrastructure is the backbone of opportunity. My work focus
 
 ###  PayVista Platform
 
-Fintech infrastructure enabling liquidity distribution and working capital access for mobile money agents.
-
-**Impact:** Improves transaction reliability and expands financial access in underserved communities.
-
+Fintech infrastructure enabling liquidity distribution and working capital access for mobile money agents (link : [PayVista web app ](https://app.payvistagroup.com)).
 
 ###  Financial Tracking Systems
 
 Tools for tracking float, transactions, and profit analytics.
-
-**Impact:** Enables small financial operators to manage liquidity and profitability.
+It enables small financial operators to manage liquidity and profitability.
 
 
 ##  GitHub Activity & Stats
@@ -107,7 +96,7 @@ Tools for tracking float, transactions, and profit analytics.
 * Scaling fintech infrastructure across East Africa
 * Building data-driven lending systems for agent networks
 * Strengthening resilient digital financial ecosystems
-* Expanding partnerships & institutional readiness
+* Expanding partnerships and institutional readiness
 
 
 ##  Impact & Leadership
