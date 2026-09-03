@@ -1,127 +1,233 @@
-# 👋 Hi, I’m Eddy Kubwimana
+# 👋 Hi, I'm Eddy Kubwimana
 
-### PayVista Founder | Software Engineer | Financial Inclusion Advocate
+### Founder & CEO @ PayVista | Software Engineer | Fintech & Financial Inclusion Builder | Internet4All Burundi
 
-I build technology that expands financial access and economic opportunity across Burundi.
+I am **Eddy Kubwimana**, a Burundian entrepreneur, software engineer, and financial inclusion advocate building technology for underserved communities across Africa.
 
-As the Founder & CEO of [PayVista](https://www.payvistagroup.com), I design financial infrastructure that empowers mobile money agents with liquidity, working capital, and transaction efficiency;enabling underserved communities to access reliable financial services.
+I am the **Founder & CEO of** [PayVista](https://www.payvistagroup.com), a fintech company focused on strengthening the financial infrastructure behind mobile money and agent networks in emerging markets.
 
+I also founded [Internet4AllBurundi](https://internet4allburundi.org), a community connectivity initiative bringing affordable, reliable internet access, digital skills, computers, and online learning opportunities to underserved rural communities in Burundi.
 
-##  Mission
+My work sits at the intersection of **technology, fintech, entrepreneurship, financial inclusion, digital infrastructure, and social impact**.
 
-> **Building the financial rails that power inclusive economies across Africa.**
+> **I build technology that expands access to opportunity.**
 
-I believe financial infrastructure is the backbone of opportunity. My work focuses on removing barriers that prevent individuals and small businesses from participating fully in the economy.
+---
 
+##  What I'm Building
 
+### PayVista — Financial Infrastructure for Inclusive Economies
 
-## About PayVista
+**PayVista** is a Burundi-based fintech building infrastructure that helps mobile money agents access liquidity, working capital, and financial services so they can serve their communities more reliably.
 
-[PayVista](https://www.payvistagroup.com) is a fintech platform improving financial inclusion by enabling mobile money agents to operate reliably and grow sustainably.
+Our work focuses on solving practical problems faced by financial agents and small businesses:
 
-### Impact Focus
+* Mobile money agent liquidity and float management
+* Working capital and agent financing
+* Data-driven credit assessment
+* Financial analytics and transaction intelligence
+* Digital financial infrastructure
+* Financial inclusion for underserved communities
 
-*  Liquidity and float management for agents
-*  Working capital access using transaction data
-*  Expanding financial services to underserved communities
-*  Strengthening local financial ecosystems
+PayVista has grown from an early-stage idea into a growing fintech serving **hundreds of mobile money agents**, creating employment, deploying financing, and building technology for financial operators in Burundi.
+
+**Mission:** Build the financial infrastructure that enables underserved communities and businesses to participate more fully in the economy.
+
+---
+
+## Internet4All Burundi
+
+Technology cannot create opportunity when people cannot access the internet.
+
+That is why I founded **Internet4All Burundi** — a community connectivity initiative designed to bring reliable internet access and digital learning opportunities to underserved communities.
+
+The first hub launched in **Shombo, Burundi**, my home community.
+
+Internet4All combines:
+
+*  Affordable community internet
+*  Access to computers and digital tools
+*  AI and technology learning
+*  Online education and research
+*  Support for students and young people
+*  Digital opportunities for entrepreneurs
+*  Access to online government and public services
+
+The long-term goal is to develop a **replicable rural digital-access model for Burundi and other underserved communities across Africa**.
+
+> **Where someone lives should not determine what they can learn, build, or become.**
+
+---
+
+##  Background
+
+I graduated from **Ashesi University** with a **BSc in Computer Science, Cum Laude**.
+
+My journey has taken me from studying computer science to building companies and technology solutions aimed at addressing real economic and social challenges in Africa.
+
+I was fortunate to receive support through programs including the **Mastercard Foundation Scholars Program**, the **Palantir Global Impact Scholarship**, and the **Ashesi Venture Incubator**.
+
+These experiences shaped my belief that technology should not simply be innovative — it should solve meaningful problems and expand opportunity.
+
+---
 
 ##  What Drives Me
 
-* Financial inclusion and emerging markets innovation
-* Building scalable fintech infrastructure
-* Data-driven credit and liquidity systems
-* Entrepreneurship adnd ecosystem development
+I am particularly interested in:
+
+* Financial inclusion in Africa
+* African fintech and emerging-market innovation
+* Mobile money ecosystems
+* Digital financial infrastructure
+* Data-driven lending
+* Financial technology for small businesses
+* Digital inclusion and connectivity
+* Rural technology development
+* Entrepreneurship and venture building
 * Technology for social and economic impact
+* AI and digital transformation
+* Inclusive economic development
 
+---
 
-## Tech Stack
+##  Technology
 
-### 💻 Languages
+My engineering experience spans product development, web applications, APIs, databases, cloud infrastructure, and financial technology systems.
 
-![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-Advanced-lightgrey?style=for-the-badge&logo=postgresql)
-![Java](https://img.shields.io/badge/Java-Advanced-red?style=for-the-badge&logo=openjdk)
-![PHP](https://img.shields.io/badge/PHP-Advanced-777BB4?style=for-the-badge&logo=php)
-![C++](https://img.shields.io/badge/C++-Advanced-00599C?style=for-the-badge&logo=cplusplus)
+### Languages
 
-### ⚙️ Frameworks & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 
-![React](https://img.shields.io/badge/React-UI-blue?style=for-the-badge\&logo=react)
-![Flask](https://img.shields.io/badge/Flask-Backend-black?style=for-the-badge\&logo=flask)
-![Django](https://img.shields.io/badge/Django-Web-green?style=for-the-badge\&logo=django)
-![Flutter](https://img.shields.io/badge/Flutter-Intermediate-02569B?style=for-the-badge&logo=flutter)
+### Frameworks & Development
 
-### ☁️ Cloud & DevOps
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
 
-![Docker](https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge\&logo=docker)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-Cloud-orange?style=for-the-badge\&logo=googlecloud)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-purple?style=for-the-badge\&logo=githubactions)
+### Backend, Data & Infrastructure
 
-### 🗄 Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge\&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-Advanced-4479A1?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-47A248?style=for-the-badge&logo=mongodb)
+### Areas of Engineering
 
-### 🔧 Specializations
+`REST APIs` • `Fintech Systems` • `Mobile Money` • `Financial Analytics` • `Credit Systems` • `Liquidity Management` • `Database Design` • `Web Applications` • `Cloud Infrastructure` • `Data-Driven Products`
 
-`REST APIs` • `Fintech Infrastructure` • `Mobile Money Systems` • `Float Management` • `Financial Analytics`
+---
 
+##  Building With Impact
 
-###  PayVista Platform
+Through PayVista and Internet4All, my work focuses on turning technology into measurable economic and social outcomes.
 
-Fintech infrastructure enabling liquidity distribution and working capital access for mobile money agents (link : [PayVista web app ](https://app.payvistagroup.com)).
+### PayVista
 
-###  Financial Tracking Systems
+* Serving **800+ mobile money agents**
+* Created **15+ full-time jobs**
+* Created **7+ part-time opportunities**
+* Raised **$46,300+ in 2026**
+* Revenue grew by approximately **100% during the first half of 2026**
+* Built and deployed agent financing and liquidity solutions
+* Supported underserved financial operators with working capital
 
-Tools for tracking float, transactions, and profit analytics.
-It enables small financial operators to manage liquidity and profitability.
+### Internet4All Burundi
 
+* Launched the first community hub in **Shombo, Burundi**
+* Providing free and reliable internet access to more than 90 + young individuals/days in an underserved rural community
+* Supporting more 20 students with online research and learning
+* Enabling access and training i use of AI and digital tools
+* Providing computers and digital learning opportunities
+* Building a model designed for replication across rural Burundi
 
-##  GitHub Activity & Stats
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EddyKubwimana\&show_icons=true\&hide_border=true)
+##  My Philosophy
+
+I believe Africa does not lack talent.
+
+Too often, people lack the **infrastructure, capital, technology, information, and opportunities** needed to turn that talent into economic value.
+
+My work is therefore focused on building those missing bridges.
+
+**Capital → Opportunity**
+
+**Technology → Access**
+
+**Connectivity → Knowledge**
+
+**Infrastructure → Economic Participation**
+
+---
+
+##  Current Focus
+
+I am currently focused on:
+
+* Scaling PayVista's fintech infrastructure
+* Expanding financial services for mobile money agents
+* Building data-driven lending and liquidity systems
+* Strengthening financial ecosystems in Burundi and East Africa
+* Expanding Internet4All hubs to more underserved communities in Burundi
+* Exploring AI applications for financial inclusion
+* Building partnerships around digital and financial infrastructure
+* Developing scalable technology solutions for emerging markets
+
+---
+
+##  Let's Build
+
+I am interested in connecting with:
+
+* Fintech founders and builders
+* Investors and impact investors
+* Development organizations
+* African technology entrepreneurs
+* Researchers and academics
+* Open-source developers
+* Financial institutions
+* Digital infrastructure partners
+* Fellowship and scholarship programs
+* Organizations working on financial and digital inclusion
+
+If you are working on technology, finance, entrepreneurship, or infrastructure that can expand opportunity in Africa, **I'd love to connect.**
+
+---
+
+##  Find Me Online
+
+**PayVista** — Fintech and financial inclusion - [PayVista](https://www.payvistagroup.com)
+**Internet4All Burundi** — Digital inclusion and community connectivity -[Internet4AllBurundi](https://internet4allburundi.org)
+**LinkedIn** — [EddyKubwimana](https://www.linkedin.com/in/eddy-kubwimana/)
+**GitHub** — @EddyKubwimana
+
+---
+
+##  GitHub Activity
+
+![Eddy Kubwimana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EddyKubwimana\&show_icons=true\&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EddyKubwimana\&layout=compact\&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=EddyKubwimana\&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EddyKubwimana)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EddyKubwimana)
 
+---
 
-##  Current Focus
+###  Connect
 
-* Scaling fintech infrastructure across East Africa
-* Building data-driven lending systems for agent networks
-* Strengthening resilient digital financial ecosystems
-* Expanding partnerships and institutional readiness
+**Eddy Kubwimana**
+Founder & CEO, PayVista
+Software Engineer | Fintech | Financial Inclusion | Digital Infrastructure | Burundi & Africa
 
-
-##  Impact & Leadership
-
-✔ Enabled financial access in underserved communities
-✔ Supporting mobile money agents with liquidity solutions
-✔ Building systems that strengthen local economies
-✔ Creating opportunities through fintech innovation
-
-
-##  Open to Collaboration
-
-I welcome opportunities in:
-
-* Global fellowships and scholarships
-* Fintech innovation partnerships
-* Open-source collaboration
-* Impact-driven technology initiatives
-
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/eddy-kubwimana)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:kubwimanaeddy1@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Website-Visit-black?style=for-the-badge\&logo=googlechrome)](https://eddykubwimana.github.io/eddy/)
-
-
-![Visitor Count](https://komarev.com/ghpvc/?username=EddyKubwimana\&style=flat-square)
+> **Building technology. Creating access. Expanding opportunity.**
