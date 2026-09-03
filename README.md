@@ -12,8 +12,6 @@ My work sits at the intersection of **technology, fintech, entrepreneurship, fin
 
 > **I build technology that expands access to opportunity.**
 
----
-
 ##  What I'm Building
 
 ### PayVista — Financial Infrastructure for Inclusive Economies
@@ -32,8 +30,6 @@ Our work focuses on solving practical problems faced by financial agents and sma
 PayVista has grown from an early-stage idea into a growing fintech serving **hundreds of mobile money agents**, creating employment, deploying financing, and building technology for financial operators in Burundi.
 
 **Mission:** Build the financial infrastructure that enables underserved communities and businesses to participate more fully in the economy.
-
----
 
 ## Internet4All Burundi
 
@@ -57,8 +53,6 @@ The long-term goal is to develop a **replicable rural digital-access model for B
 
 > **Where someone lives should not determine what they can learn, build, or become.**
 
----
-
 ##  Background
 
 I graduated from **Ashesi University** with a **BSc in Computer Science, Cum Laude**.
@@ -68,8 +62,6 @@ My journey has taken me from studying computer science to building companies and
 I was fortunate to receive support through programs including the **Mastercard Foundation Scholars Program**, the **Palantir Global Impact Scholarship**, and the **Ashesi Venture Incubator**.
 
 These experiences shaped my belief that technology should not simply be innovative — it should solve meaningful problems and expand opportunity.
-
----
 
 ##  What Drives Me
 
@@ -87,8 +79,6 @@ I am particularly interested in:
 * Technology for social and economic impact
 * AI and digital transformation
 * Inclusive economic development
-
----
 
 ##  Technology
 
@@ -124,8 +114,6 @@ My engineering experience spans product development, web applications, APIs, dat
 
 `REST APIs` • `Fintech Systems` • `Mobile Money` • `Financial Analytics` • `Credit Systems` • `Liquidity Management` • `Database Design` • `Web Applications` • `Cloud Infrastructure` • `Data-Driven Products`
 
----
-
 ##  Building With Impact
 
 Through PayVista and Internet4All, my work focuses on turning technology into measurable economic and social outcomes.
@@ -149,8 +137,6 @@ Through PayVista and Internet4All, my work focuses on turning technology into me
 * Providing computers and digital learning opportunities
 * Building a model designed for replication across rural Burundi
 
----
-
 ##  My Philosophy
 
 I believe Africa does not lack talent.
@@ -167,8 +153,6 @@ My work is therefore focused on building those missing bridges.
 
 **Infrastructure → Economic Participation**
 
----
-
 ##  Current Focus
 
 I am currently focused on:
@@ -181,8 +165,6 @@ I am currently focused on:
 * Exploring AI applications for financial inclusion
 * Building partnerships around digital and financial infrastructure
 * Developing scalable technology solutions for emerging markets
-
----
 
 ##  Let's Build
 
@@ -201,16 +183,12 @@ I am interested in connecting with:
 
 If you are working on technology, finance, entrepreneurship, or infrastructure that can expand opportunity in Africa, **I'd love to connect.**
 
----
-
 ##  Find Me Online
 
 **PayVista** — Fintech and financial inclusion - [PayVista](https://www.payvistagroup.com)
 **Internet4All Burundi** — Digital inclusion and community connectivity -[Internet4AllBurundi](https://internet4allburundi.org)
 **LinkedIn** — [EddyKubwimana](https://www.linkedin.com/in/eddy-kubwimana/)
 **GitHub** — @EddyKubwimana
-
----
 
 ##  GitHub Activity
 
@@ -221,8 +199,6 @@ If you are working on technology, finance, entrepreneurship, or infrastructure t
 ![GitHub Streak](https://streak-stats.demolab.com?user=EddyKubwimana\&hide_border=true)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EddyKubwimana)
-
----
 
 ###  Connect
 
