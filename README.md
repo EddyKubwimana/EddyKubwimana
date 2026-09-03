@@ -185,20 +185,17 @@ If you are working on technology, finance, entrepreneurship, or infrastructure t
 
 ##  Find Me Online
 
-**PayVista** — Fintech and financial inclusion - [PayVista](https://www.payvistagroup.com)
-**Internet4All Burundi** — Digital inclusion and community connectivity -[Internet4AllBurundi](https://internet4allburundi.org)
-**LinkedIn** — [EddyKubwimana](https://www.linkedin.com/in/eddy-kubwimana/)
-**GitHub** — @EddyKubwimana
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/eddy-kubwimana)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:kubwimanaeddy1@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/Website-Visit-black?style=for-the-badge\&logo=googlechrome)](https://eddykubwimana.github.io/eddy/)
+
 
 ##  GitHub Activity
 
-![Eddy Kubwimana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EddyKubwimana\&show_icons=true\&hide_border=true)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EddyKubwimana\&show_icons=true\&hide_border=true) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EddyKubwimana\&layout=compact\&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=EddyKubwimana\&hide_border=true)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EddyKubwimana)
+![GitHub Streak](https://streak-stats.demolab.com?user=EddyKubwimana\&hide_border=true) 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EddyKubwimana)
 
 ###  Connect
 
